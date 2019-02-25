@@ -1,0 +1,122 @@
+/*
+Theme Name: CYSY Framework 3
+*/
+
+
+/*
+RTL Basics Used for Middle East languages that are read from Right to Left. You don't have to style these, but if your site becomes popular people in the middle east will hate you.
+*/
+/* CYSY Framework 3 Copyright © 2012-2013 - CYber SYtes, Inc. All Rights Reserved */
+
+body {
+	direction:rtl;
+	unicode-bidi:embed;
+	font-family: Arial, Tahoma, sans-serif;
+}
+
+
+/* =Global Elements
+-------------------------------------------------------------- */
+
+/* Text elements */
+ul {
+	margin:;
+}
+blockquote {
+	font-style: normal;
+}
+
+/* Text meant only for screen readers */
+.screen-reader-text {
+	left: auto;
+	text-indent:-9000px;
+	overflow:hidden;
+}
+
+/* = Post Pagination
+-------------------------------------------------------------- */
+.nav-previous {
+	float: right;
+}
+.nav-next {
+	float: left;
+	text-align:left;
+}
+
+/* =Comments
+-------------------------------------------------------------- */
+
+.commentlist li.comment {
+	padding: 0 56px 0 0;
+}
+.commentlist .avatar {
+	right: 0;
+	left: auto;
+}
+.comment-author .says, #comments .pingback .url  {
+	font-style: normal;
+}
+
+/* Comments form */
+.children #respond {
+	margin: 0 0 0 48px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* CYSY Framework 3 Copyright © 2012-2013 - CYber SYtes, Inc. All Rights Reserved */
